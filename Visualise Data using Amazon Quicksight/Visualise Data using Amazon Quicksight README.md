@@ -1,6 +1,6 @@
 ---
 
-# 📊 Sales Data Visualization with Amazon QuickSight
+# 📊  Data Visualization with Amazon QuickSight
 
 In this project, I used **Amazon QuickSight** to visualize sales data by creating **interactive dashboards**, applying **filters**, and generating **reports**. The goal was to analyze regional sales trends and make **data-driven decisions efficiently**.
 
@@ -101,13 +101,6 @@ Example `manifest.json` snippet:
 
 ---
 
-## 📷 Screenshots (Optional)
-
-> *(Include screenshots of your dashboard and exported PDF if available)*
-
----
-
-## 📚 Resources
 
 * [Amazon QuickSight Documentation](https://docs.aws.amazon.com/quicksight/)
 * [Create and Use a Manifest File](https://docs.aws.amazon.com/quicksight/latest/user/supported-manifest-file-format.html)
