@@ -56,7 +56,6 @@ Example `manifest.json` snippet:
 * Chose **Amazon S3** as the data source
 * Uploaded and configured the dataset using the `manifest.json` file
 
-> *The manifest file acts like a map that tells QuickSight where the data lives and how to read it.*
 
 ---
 
@@ -68,20 +67,11 @@ Example `manifest.json` snippet:
   * Choose appropriate visual types (e.g., bar charts, pie charts, line graphs)
   * Apply filters and sorting to analyze specific regional trends
 
-### 4. **Sales by Region Graph**
 
-* Created a **bar chart** displaying **total sales by region**
-* This helped visualize:
-
-  * High-performing regions
-  * Regional trends and anomalies
-  * Strategic areas for growth
-
-> *All chart titles were customized for clarity and presentation.*
 
 ---
 
-### 5. **Exporting the Report**
+### 4. **Exporting the Report**
 
 * Exported the final dashboard and **downloaded it as a PDF report**
 * Suitable for sharing with stakeholders or embedding in presentations
