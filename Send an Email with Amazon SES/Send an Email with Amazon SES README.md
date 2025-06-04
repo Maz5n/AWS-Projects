@@ -1,7 +1,3 @@
-Great! Here's a clean and professional **GitHub `README.md`** for your project that explains **how to send an email using Amazon SES via the AWS Console only**, with step-by-step instructions — no code or CLI involved.
-
----
-
 # 📧 Send Email Using Amazon SES via AWS Console
 
 This project demonstrates how to send an email using **Amazon Simple Email Service (SES)** **entirely through the AWS Console**, without any programming or command-line tools. SES is a cloud-based email sending service designed to help you send marketing, notification, and transactional emails.
