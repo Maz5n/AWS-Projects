@@ -26,11 +26,7 @@ In this project, I used **Amazon Rekognition** to analyze faces in images. Rekog
    * Facial features (e.g., eyes open, mouth open, beard, glasses)
    * Confidence scores for each detected attribute
 
--
-}
-```
 
----
 
 ## 🎯 Outcome
 
