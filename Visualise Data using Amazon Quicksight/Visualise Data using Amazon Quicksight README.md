@@ -92,9 +92,6 @@ Example `manifest.json` snippet:
 ---
 
 
-* [Amazon QuickSight Documentation](https://docs.aws.amazon.com/quicksight/)
-* [Create and Use a Manifest File](https://docs.aws.amazon.com/quicksight/latest/user/supported-manifest-file-format.html)
 
 ---
 
-Let me know if you'd like help creating a **sample `manifest.json`**, **QuickSight permissions policy**, or visual **dashboard layout template**.
