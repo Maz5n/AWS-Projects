@@ -17,7 +17,7 @@ Banker Bot is a chatbot built using **Amazon Lex** that simulates basic banking 
 
 * **Amazon Lex**
 * **AWS IAM** (for secure permission control)
-* **AWS Lambda (optional)** – for backend logic (e.g., retrieving balance or simulating transfers)
+
 
 
 
