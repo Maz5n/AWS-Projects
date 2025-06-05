@@ -13,19 +13,6 @@ All projects here were built by following and extending hands-on tutorials provi
 
 ---
 
-## 🧠 Projects Completed
-
-| Project Name                   | AWS Services Used      | Description                                                                                      |
-| ------------------------------ | ---------------------- | ------------------------------------------------------------------------------------------------ |
-| **Static Website Hosting**     | Amazon S3, ACL         | Hosted a static website using S3, configured public access, and resolved permission issues.      |
-| **Email Sending**              | Amazon SES             | Verified email identities and sent test emails directly from the AWS Console.                    |
-| **Facial Recognition**         | Amazon Rekognition, S3 | Analyzed and compared faces using Rekognition’s facial detection features.                       |
-| **Interactive Data Dashboard** | Amazon QuickSight, S3  | Visualized sales data using dashboards, filters, and charts. Connected CSV files from S3.        |
-| **Chatbot BankerBot**          | Amazon Lex, IAM        | Created a Lex chatbot that checks balances, handles money transfers, and responds to user input. |
-| *(More coming soon!)*          | –                      | Continuously building and adding more projects using AWS hands-on labs.                          |
-
----
-
 ## 🛠️ How I Work
 
 For each project:
