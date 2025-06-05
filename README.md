@@ -35,15 +35,6 @@ I sorted by the **latest publish date** and selected labs across various domains
 
 ## 📂 Repository Structure
 
-```
-aws-projects/
-├── static-website-hosting/
-├── send-email-ses/
-├── rekognition-face-analysis/
-├── quicksight-sales-dashboard/
-├── bankerbot-lex-chatbot/
-└── README.md
-```
 
 Each folder contains:
 
