@@ -24,14 +24,6 @@ For each project:
 
 ---
 
-## 📚 Tutorials Used
-
-All projects were built from the official AWS Hands-On Tutorials:
-👉 [https://aws.amazon.com/getting-started/hands-on](https://aws.amazon.com/getting-started/hands-on)
-
-I sorted by the **latest publish date** and selected labs across various domains to gain experience with storage, AI/ML, security, data analysis, and cloud infrastructure.
-
----
 
 ## 📂 Repository Structure
 
