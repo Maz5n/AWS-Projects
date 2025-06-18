@@ -1,4 +1,3 @@
-##AWS VPC Traffic Flow & Security
 # **AWS VPC Traffic Flow & Security Project**  
 ### *Understanding How Traffic Moves Through Your VPC*  
 
