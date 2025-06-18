@@ -1,7 +1,7 @@
 # ☁️ AWS Hands-On Projects Portfolio
 
-Welcome to my **AWS Hands-On Projects Repository**! 👋
-This repository contains projects I’ve completed using tutorials from the official **[AWS Getting Started Hands-On Labs](https://aws.amazon.com/getting-started/hands-on/)** portal.
+                                                    Welcome to my **AWS Hands-On Projects Repository**! 👋
+
 
 Each project demonstrates practical knowledge of key AWS services through real-world use cases — from deploying static websites to analyzing data, sending emails, using machine learning, and more.
 
