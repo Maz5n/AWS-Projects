@@ -5,11 +5,6 @@ Welcome to my **AWS Hands-On Projects Repository**! 👋
 
 Each project demonstrates practical knowledge of key AWS services through real-world use cases — from deploying static websites to analyzing data, sending emails, using machine learning, and more.
 
----
-
-## 📌 About This Repository
-
-All projects here were built by following and extending hands-on tutorials provided directly by Amazon Web Services. These tutorials helped me gain experience across multiple AWS services while understanding best practices for cloud infrastructure, security, and scalability.
 
 ---
 
@@ -49,6 +44,6 @@ These projects reflect my practical cloud skills and ability to:
 
 ## 📬 Contact
 
-If you're interested in collaborating, feel free to reach out on [LinkedIn](www.linkedin.com/mazinabdullahi) .
+If you're interested in collaborating, feel free to reach out on [LinkedIn www.linkedin.com/in/mazinabdullahi/] .
 
 ---
