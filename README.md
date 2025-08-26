@@ -1,6 +1,6 @@
-# ☁️ AWS Hands-On Projects Portfolio
+#  AWS Hands-On Projects Portfolio
 
-Welcome to my **AWS Hands-On Projects Repository**! 👋
+Welcome to my **AWS Hands-On Projects Repository**! 
 
 
 Each project demonstrates practical knowledge of key AWS services through real-world use cases — from deploying static websites to analyzing data, sending emails, using machine learning, and more.
@@ -8,7 +8,7 @@ Each project demonstrates practical knowledge of key AWS services through real-w
 
 ---
 
-## 🛠️ How I Work
+##  How I Work
 
 For each project:
 
@@ -20,7 +20,7 @@ For each project:
 ---
 
 
-## 📂 Repository Structure
+##  Repository Structure
 
 
 Each folder contains:
@@ -32,7 +32,7 @@ Each folder contains:
 
 ---
 
-## 💼 Why This Matters
+##  Why This Matters
 
 These projects reflect my practical cloud skills and ability to:
 
