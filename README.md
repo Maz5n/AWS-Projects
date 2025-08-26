@@ -44,6 +44,6 @@ These projects reflect my practical cloud skills and ability to:
 
 ## 📬 Contact
 
-If you're interested in collaborating, feel free to reach out on [LinkedIn www.linkedin.com/in/mazinabdullahi/] .
+If you're interested in collaborating, feel free to reach out on [LinkedIn] www.linkedin.com/in/mazinabdullahi/.
 
 ---
