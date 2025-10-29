@@ -12,7 +12,6 @@ Each project demonstrates practical knowledge of key AWS services through real-w
 
 For each project:
 
-* I **followed a guided AWS tutorial**
 * Performed the steps manually using the **AWS Console**
 * Troubleshot errors, managed permissions, and customized configurations
 * Documented each project in a dedicated folder (including descriptions, screenshots, and outcomes)
